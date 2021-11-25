@@ -31,4 +31,4 @@ Both localization and drift correction can be done in the proprietary Nikon soft
 
 ### Analysis of localized data
 At this point, all going well, we should have a .csv or .xslx containing the coordinates of localization. The data can be imported into 
-[this notebook](../Notebooks/Hub pipeline/Hub_quantification.ipynb) for analysis. If time permits, it would be quite productive to convert it into a script, but for now, a notebook is all I've written. The analysis should produce a probability mass function (PMF) and cumulative distribution function (CDF) of the number of EWS-FLI1 proteins per hub, and the number of hubs. More info can be found in the documentation.
+[this notebook](../Notebooks/hub_pipeline/hub_quantification.ipynb) for analysis. If time permits, it would be quite productive to convert it into a script, but for now, a notebook is all I've written. The analysis should produce a probability mass function (PMF) and cumulative distribution function (CDF) of the number of EWS-FLI1 proteins per hub, and the number of hubs. More info can be found in the documentation.
