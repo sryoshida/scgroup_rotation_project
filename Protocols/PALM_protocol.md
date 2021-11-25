@@ -8,7 +8,7 @@ overview of how PALM is related to the broader field of super-resolution imaging
 At this point, we should have a fixed sample, labelled with photoactivatable dyes. If not, refer to [this staining protocol](/Protocols/staining_protocol.pdf) to learn how to stain your sample, or if you have already stained it, reference [this fixation protocol](../Protocols/fixation_protocol.md) to learn how to fix your cell and label with Hoechst DNA dye if necessary.
 
 #### Acquisition sequence
-While it was suggested by Meagan Esbin of the Tjian + Darzacq Group at UC Berkeley that we have the activation laser (405 nm) and aquisition laser (561/647 nm depending on the PA-dye used) turned on simulataneously with the following acquisition/illumination sequence over 20,000 - 30,000 frames.
+While it was suggested by Meagan Esbin of the Tjian + Darzacq Group at UC Berkeley that we have the activation laser (405 nm) and aquisition laser (561/647 nm depending on the PA dye used) turned on simulataneously with the following acquisition/illumination sequence over 20,000 - 30,000 frames.
 
 | Exposure sequence | Camera aquisition | Camera aquisition | Camera aquisition | Camera aquisition |...             |
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | -------------- | 
