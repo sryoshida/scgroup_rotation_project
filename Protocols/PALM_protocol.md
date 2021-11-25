@@ -14,7 +14,6 @@ While it was suggested by Meagan Esbin of the Tjian + Darzacq Group at UC Berkel
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | --------------- |
 | Activation beam   | 405 nm            | 405 nm            | 405 nm            | 405 nm            | ...             |
 | Aquisition beam   | 561/647 nm        | 561/647 nm        | 561/647 nm        | 561/647 nm        | ...             |
-| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | --------------- |
 | Integration time  | 100 ms            | 100 ms            | 100 ms            | 100 ms            | ...             |
 
 However, due to the demo-microscope unit having an incorrect dichroic, this acquisition/illumination sequence resulted in a lot of bleed-through from the 405 nm beam being on. This meant that we had to modify the sequence to ensure that there was no camera exposure while the 405 nm beam was on. I would suggest something like the following (again over 20,000 to 30,000 frames, or really until no more meaningful fluorescence is detected).
@@ -23,7 +22,6 @@ However, due to the demo-microscope unit having an incorrect dichroic, this acqu
 | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | --------------- |
 | Activation beam   | 405 nm            |                   |                   |                   | ...             |
 | Aquisition beam   |                   | 561/647 nm        | 561/647 nm        | 561/647 nm        | ...             |
-| ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | --------------- |
 | Integration time  | 100 ms            | 100 ms            | 100 ms            | 100 ms            | ...             |
 
 In general, a ratio of activation frames to aquisition frames around 1:10 works quite well. In additon, the integration times are also rather flexible.
