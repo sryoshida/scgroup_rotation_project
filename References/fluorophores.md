@@ -1,5 +1,5 @@
 # Fluorophore locations in the box
-SY's fluorophore box is in the 1st -80&deg;C freezer on left, bottom row, 4th rack from left. The stickers tend to fall off, so be sure to keep putting fluorophores in a consistent location.
+SY's fluorophore box is in the 1st -80&deg;C freezer on left, bottom row, 4th rack from left. The stickers tend to fall off, so keeping your fluorophores in set positions is a good idea.
 
 |               | A             | B             | C             | ...           | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
