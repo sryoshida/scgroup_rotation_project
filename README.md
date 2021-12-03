@@ -5,4 +5,4 @@ This repository contains work done by SY over the course of the Fall rotation in
 - Jupyter notebooks containing exploratory models and super-resolution analysis 
 - Presentations given at group meetings, journal clubs, and the BMB rotation seminar
 - Protocols developed for staining cells and imaging with photoactivated localization microscopy (PALM)
-- Reference sheets for cell line/reagents in use and data taken
+- Reference sheets for cell line/reagents in use and data organization
